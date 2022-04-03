@@ -1,0 +1,30 @@
+CRITICAL - 2022-03-21 20:51:17 --> Invalid file: auth.login
+#0 /Library/WebServer/Documents/projects/aplikasi-penggajian/system/View/View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('auth.login')
+#1 /Library/WebServer/Documents/projects/aplikasi-penggajian/system/Common.php(1089): CodeIgniter\View\View->render('auth.login', Array, true)
+#2 /Library/WebServer/Documents/projects/aplikasi-penggajian/app/Controllers/Authentication.php(11): view('auth.login')
+#3 /Library/WebServer/Documents/projects/aplikasi-penggajian/system/CodeIgniter.php(832): App\Controllers\Authentication->formLogin()
+#4 /Library/WebServer/Documents/projects/aplikasi-penggajian/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authentication))
+#5 /Library/WebServer/Documents/projects/aplikasi-penggajian/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /Library/WebServer/Documents/projects/aplikasi-penggajian/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 /Library/WebServer/Documents/projects/aplikasi-penggajian/system/Commands/Server/rewrite.php(43): require_once('/Library/WebSer...')
+#8 {main}
+CRITICAL - 2022-03-21 20:51:17 --> Invalid file: auth.login
+#0 /Library/WebServer/Documents/projects/aplikasi-penggajian/system/View/View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('auth.login')
+#1 /Library/WebServer/Documents/projects/aplikasi-penggajian/system/Common.php(1089): CodeIgniter\View\View->render('auth.login', Array, true)
+#2 /Library/WebServer/Documents/projects/aplikasi-penggajian/app/Controllers/Authentication.php(11): view('auth.login')
+#3 /Library/WebServer/Documents/projects/aplikasi-penggajian/system/CodeIgniter.php(832): App\Controllers\Authentication->formLogin()
+#4 /Library/WebServer/Documents/projects/aplikasi-penggajian/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authentication))
+#5 /Library/WebServer/Documents/projects/aplikasi-penggajian/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /Library/WebServer/Documents/projects/aplikasi-penggajian/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 /Library/WebServer/Documents/projects/aplikasi-penggajian/system/Commands/Server/rewrite.php(43): require_once('/Library/WebSer...')
+#8 {main}
+CRITICAL - 2022-03-21 20:51:18 --> Invalid file: auth.login
+#0 /Library/WebServer/Documents/projects/aplikasi-penggajian/system/View/View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('auth.login')
+#1 /Library/WebServer/Documents/projects/aplikasi-penggajian/system/Common.php(1089): CodeIgniter\View\View->render('auth.login', Array, true)
+#2 /Library/WebServer/Documents/projects/aplikasi-penggajian/app/Controllers/Authentication.php(11): view('auth.login')
+#3 /Library/WebServer/Documents/projects/aplikasi-penggajian/system/CodeIgniter.php(832): App\Controllers\Authentication->formLogin()
+#4 /Library/WebServer/Documents/projects/aplikasi-penggajian/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authentication))
+#5 /Library/WebServer/Documents/projects/aplikasi-penggajian/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /Library/WebServer/Documents/projects/aplikasi-penggajian/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 /Library/WebServer/Documents/projects/aplikasi-penggajian/system/Commands/Server/rewrite.php(43): require_once('/Library/WebSer...')
+#8 {main}
